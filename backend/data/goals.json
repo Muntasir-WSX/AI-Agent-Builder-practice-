@@ -1,0 +1,101 @@
+[
+  {
+    "title": "Learn Python",
+    "durationDays": "14 days",
+    "plan": {
+      "milestones": [
+        "Understand Python fundamentals and syntax",
+        "Learn data structures and control flow in Python",
+        "Master functions, modules, and file handling",
+        "Get familiar with libraries and frameworks",
+        "Build a simple project to integrate all learned concepts"
+      ],
+      "dailyTasks": [
+        {
+          "day": 1,
+          "title": "Introduction to Python",
+          "description": "Set up Python environment, learn about variables, data types, and basic syntax."
+        },
+        {
+          "day": 2,
+          "title": "Control Structures",
+          "description": "Understand conditional statements and loops (if, for, while)."
+        },
+        {
+          "day": 3,
+          "title": "Data Structures",
+          "description": "Learn about lists, tuples, sets, and dictionaries."
+        },
+        {
+          "day": 4,
+          "title": "Functions",
+          "description": "Understand how to define and call functions, and learn about parameters and return values."
+        },
+        {
+          "day": 5,
+          "title": "Modules and Packages",
+          "description": "Learn how to import and use modules, and understand package management with pip."
+        },
+        {
+          "day": 6,
+          "title": "File Handling",
+          "description": "Learn how to read from and write to files in Python."
+        },
+        {
+          "day": 7,
+          "title": "Error Handling",
+          "description": "Understand exceptions and how to handle errors gracefully."
+        },
+        {
+          "day": 8,
+          "title": "Introduction to Libraries",
+          "description": "Get familiar with popular libraries like NumPy and Pandas."
+        },
+        {
+          "day": 9,
+          "title": "Data Analysis with Pandas",
+          "description": "Perform basic data analysis and manipulation using Pandas."
+        },
+        {
+          "day": 10,
+          "title": "Web Scraping with Beautiful Soup",
+          "description": "Learn the basics of web scraping and extracting data from websites."
+        },
+        {
+          "day": 11,
+          "title": "Introduction to Frameworks",
+          "description": "Get an overview of web frameworks like Flask or Django."
+        },
+        {
+          "day": 12,
+          "title": "Start Your Project",
+          "description": "Begin working on a simple project that utilizes what you've learned."
+        },
+        {
+          "day": 13,
+          "title": "Complete Your Project",
+          "description": "Finish your project, ensuring all features are working as intended."
+        },
+        {
+          "day": 14,
+          "title": "Review and Reflection",
+          "description": "Review what you've learned, seek feedback, and plan next steps for further learning."
+        }
+      ],
+      "successMetrics": [
+        "Complete all daily tasks on time",
+        "Build and run a final project successfully",
+        "Demonstrate understanding through quizzes or coding challenges"
+      ],
+      "challenges": [
+        "Time management with daily tasks",
+        "Understanding complex concepts like libraries and frameworks",
+        "Maintaining motivation throughout the learning process"
+      ],
+      "motivationalApproach": "Set small, achievable goals and reward yourself after completing each milestone. Join online communities for support, and share your progress to stay accountable."
+    },
+    "status": "active",
+    "id": "1775408089365",
+    "createdAt": "2026-04-05T16:54:49.365Z"
+  }
+]
