@@ -98,17 +98,13 @@ const evaluateProgress = async (goal, completedTasks, totalTasks, days) => {
       ],
       temperature: 0.8,
     })
-
     const content = response.choices[0].message.content;
     const jsonMatch = content.match(/\{[\s\S]*\}/)
     return JSON.parse(jsonMatch)
-
   } catch (err) {
     console.error(err)
   }
-
 }
-
 module.exports = {
   analyzeGoal,
   evaluateProgress

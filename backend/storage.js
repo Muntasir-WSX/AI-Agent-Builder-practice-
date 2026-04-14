@@ -20,13 +20,6 @@ Object.values(FILES).forEach(file => {
         fs.writeFileSync(file, JSON.stringify([], null, 2));
     }
 });
-
-
-
-
-
-
-
 const storage = {
     // Goals operations
     saveGoal: (goal) => {
